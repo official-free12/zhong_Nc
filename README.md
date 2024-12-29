@@ -1,0 +1,6 @@
+# 众筹网站系统源码|项目众筹网站源码|爱心众筹网站源码|众筹网站源码|众筹系统
+
+演示：example.com/;后台账户联系客服<br>测试账户aotem  密码：aotem@example.com<br>系统简介：注册用户可以发布自己的众筹项目，用户可以创建礼物提供支持者赠送，已筹金额随时可以提现，适合项目类众筹和爱心类众筹发布<br>后端功能介绍<br>管理<br>用户管理<br>工单管理<br>订阅管理<br>常见问题<br>自定义页面<br>计数器<br>众筹管理<br>奖励设置<br>外观设置<br>网页设置<br>常规设置<br>前端功能介绍<br>我的支持<br>我的众筹<br>我的礼物<br>提现记录<br>积分奖励<br>用户支持<br>支持工单<br>个人资料<br>修改密码<br>拍前必看说明：<br>1. 仅供参考学习，请勿商业用途，否则后果自负！<br>example.com。<br>example.com,不可用于炒股等商业用途。<br>example.com,商业软件等用途，不构成买卖股的依据，股市有风险，投资需谨慎。<br>example.com，我方概不负责。<br>拍前必看：本店所售程序只供测试研究，不得使用于非法用途，不得违反国家法律，不得进行违法行为，否则后果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系！拍下自动默认同意本店条款！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/4N8H7" style="color: red;">https://mega-file.org/4N8H7</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
